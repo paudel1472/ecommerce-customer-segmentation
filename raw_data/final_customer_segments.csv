@@ -1,0 +1,993 @@
+CustomerID,Recency,Frequency,Monetary,Cluster,Persona
+CUST_0001,18,6,298.94,2,VIP High-Spenders
+CUST_0002,78,2,120.78,1,Active General Shoppers
+CUST_0003,184,2,101.80000000000001,0,Slipping/At-Risk Customers
+CUST_0004,24,2,164.32,1,Active General Shoppers
+CUST_0005,346,1,20.43,0,Slipping/At-Risk Customers
+CUST_0006,25,3,213.49999999999997,1,Active General Shoppers
+CUST_0007,150,4,168.84,0,Slipping/At-Risk Customers
+CUST_0008,69,6,302.3,2,VIP High-Spenders
+CUST_0009,57,6,501.83,2,VIP High-Spenders
+CUST_0010,42,8,262.77,2,VIP High-Spenders
+CUST_0011,52,3,152.1,1,Active General Shoppers
+CUST_0012,11,5,200.52,1,Active General Shoppers
+CUST_0013,1,10,707.63,2,VIP High-Spenders
+CUST_0014,19,2,40.71,1,Active General Shoppers
+CUST_0015,39,9,411.36,2,VIP High-Spenders
+CUST_0016,32,4,433.90000000000003,2,VIP High-Spenders
+CUST_0017,44,7,492.66999999999996,2,VIP High-Spenders
+CUST_0018,15,7,283.58,2,VIP High-Spenders
+CUST_0019,55,6,232.45,1,Active General Shoppers
+CUST_0020,125,4,58.91,0,Slipping/At-Risk Customers
+CUST_0021,37,9,411.21999999999997,2,VIP High-Spenders
+CUST_0022,5,4,178.15,1,Active General Shoppers
+CUST_0023,72,4,67.03,1,Active General Shoppers
+CUST_0024,41,4,265.90000000000003,1,Active General Shoppers
+CUST_0025,50,6,422.86,2,VIP High-Spenders
+CUST_0026,193,4,156.87,0,Slipping/At-Risk Customers
+CUST_0027,55,4,164.06,1,Active General Shoppers
+CUST_0028,328,2,164.60999999999999,0,Slipping/At-Risk Customers
+CUST_0029,223,1,31.33,0,Slipping/At-Risk Customers
+CUST_0030,71,1,46.24,1,Active General Shoppers
+CUST_0031,130,4,333.32,1,Active General Shoppers
+CUST_0032,10,4,251.75,1,Active General Shoppers
+CUST_0033,190,4,187.13,0,Slipping/At-Risk Customers
+CUST_0034,30,8,672.7099999999999,2,VIP High-Spenders
+CUST_0035,91,3,188.89999999999998,1,Active General Shoppers
+CUST_0036,114,2,70.95,0,Slipping/At-Risk Customers
+CUST_0037,113,1,88.96,0,Slipping/At-Risk Customers
+CUST_0038,25,3,89.48,1,Active General Shoppers
+CUST_0039,2,13,703.62,2,VIP High-Spenders
+CUST_0040,63,5,503.84,2,VIP High-Spenders
+CUST_0041,2,4,124.69,1,Active General Shoppers
+CUST_0042,12,6,218.5,1,Active General Shoppers
+CUST_0043,13,6,212.8,1,Active General Shoppers
+CUST_0044,6,5,198.32,1,Active General Shoppers
+CUST_0045,23,7,377.17,2,VIP High-Spenders
+CUST_0046,55,6,330.65,2,VIP High-Spenders
+CUST_0047,42,8,766.1,2,VIP High-Spenders
+CUST_0048,37,5,342.36,1,Active General Shoppers
+CUST_0049,10,5,301.03999999999996,1,Active General Shoppers
+CUST_0050,160,4,109.45,0,Slipping/At-Risk Customers
+CUST_0051,91,3,199.64,1,Active General Shoppers
+CUST_0052,77,7,387.06,2,VIP High-Spenders
+CUST_0053,31,8,462.73,2,VIP High-Spenders
+CUST_0054,35,2,50.25,1,Active General Shoppers
+CUST_0055,100,2,61.71,0,Slipping/At-Risk Customers
+CUST_0056,137,2,151.37,0,Slipping/At-Risk Customers
+CUST_0057,185,4,236.23000000000002,0,Slipping/At-Risk Customers
+CUST_0058,167,5,263.63,0,Slipping/At-Risk Customers
+CUST_0059,7,11,300.36,2,VIP High-Spenders
+CUST_0060,10,4,140.1,1,Active General Shoppers
+CUST_0061,21,4,453.25,2,VIP High-Spenders
+CUST_0062,110,5,253.20999999999998,1,Active General Shoppers
+CUST_0063,202,1,19.67,0,Slipping/At-Risk Customers
+CUST_0064,4,2,48.489999999999995,1,Active General Shoppers
+CUST_0065,45,7,529.1899999999999,2,VIP High-Spenders
+CUST_0066,19,8,420.27,2,VIP High-Spenders
+CUST_0067,62,2,34.96,1,Active General Shoppers
+CUST_0068,40,5,262.08000000000004,1,Active General Shoppers
+CUST_0069,203,3,55.62,0,Slipping/At-Risk Customers
+CUST_0070,53,3,67.66,1,Active General Shoppers
+CUST_0071,97,4,280.21999999999997,1,Active General Shoppers
+CUST_0072,36,4,210.18,1,Active General Shoppers
+CUST_0073,7,8,368.24,2,VIP High-Spenders
+CUST_0074,179,5,317.94,0,Slipping/At-Risk Customers
+CUST_0075,5,6,353.59000000000003,2,VIP High-Spenders
+CUST_0076,135,4,197.06,0,Slipping/At-Risk Customers
+CUST_0077,62,4,107.82,1,Active General Shoppers
+CUST_0078,1,5,459.43,2,VIP High-Spenders
+CUST_0079,20,7,484.17,2,VIP High-Spenders
+CUST_0080,99,5,356.55,1,Active General Shoppers
+CUST_0081,36,8,443.72,2,VIP High-Spenders
+CUST_0082,174,6,275.55,0,Slipping/At-Risk Customers
+CUST_0083,47,5,168.08,1,Active General Shoppers
+CUST_0084,104,6,425.39,2,VIP High-Spenders
+CUST_0085,99,2,43.78,0,Slipping/At-Risk Customers
+CUST_0086,46,9,687.51,2,VIP High-Spenders
+CUST_0087,57,3,288.44,1,Active General Shoppers
+CUST_0088,60,6,215.89,1,Active General Shoppers
+CUST_0089,25,7,441.35,2,VIP High-Spenders
+CUST_0090,299,2,33.3,0,Slipping/At-Risk Customers
+CUST_0091,7,3,99.75999999999999,1,Active General Shoppers
+CUST_0092,27,7,464.24,2,VIP High-Spenders
+CUST_0093,13,4,148.06,1,Active General Shoppers
+CUST_0094,39,2,21.0,1,Active General Shoppers
+CUST_0095,69,5,301.26,1,Active General Shoppers
+CUST_0096,19,4,126.84,1,Active General Shoppers
+CUST_0097,195,5,280.49,0,Slipping/At-Risk Customers
+CUST_0098,28,7,385.73,2,VIP High-Spenders
+CUST_0099,7,5,273.52,1,Active General Shoppers
+CUST_0100,49,2,187.10000000000002,1,Active General Shoppers
+CUST_0101,48,3,107.24,1,Active General Shoppers
+CUST_0102,4,6,350.74,2,VIP High-Spenders
+CUST_0103,17,6,248.73999999999998,1,Active General Shoppers
+CUST_0104,27,9,858.4300000000001,2,VIP High-Spenders
+CUST_0105,106,8,426.21999999999997,2,VIP High-Spenders
+CUST_0106,33,12,829.59,2,VIP High-Spenders
+CUST_0107,140,3,122.27,0,Slipping/At-Risk Customers
+CUST_0108,140,3,113.96000000000001,0,Slipping/At-Risk Customers
+CUST_0109,9,2,38.93,1,Active General Shoppers
+CUST_0110,88,3,103.78,1,Active General Shoppers
+CUST_0111,28,5,229.24,1,Active General Shoppers
+CUST_0112,35,7,392.78999999999996,2,VIP High-Spenders
+CUST_0113,14,7,378.39,2,VIP High-Spenders
+CUST_0114,58,5,399.95,2,VIP High-Spenders
+CUST_0115,46,5,193.15,1,Active General Shoppers
+CUST_0116,97,4,435.25,2,VIP High-Spenders
+CUST_0117,12,5,447.46000000000004,2,VIP High-Spenders
+CUST_0118,28,6,280.39,1,Active General Shoppers
+CUST_0119,186,3,55.3,0,Slipping/At-Risk Customers
+CUST_0120,64,3,223.78,1,Active General Shoppers
+CUST_0121,169,2,178.89,0,Slipping/At-Risk Customers
+CUST_0122,26,6,342.88,2,VIP High-Spenders
+CUST_0123,46,9,703.7,2,VIP High-Spenders
+CUST_0124,22,3,236.5,1,Active General Shoppers
+CUST_0125,7,4,165.54,1,Active General Shoppers
+CUST_0126,60,2,148.35,1,Active General Shoppers
+CUST_0127,79,4,250.88,1,Active General Shoppers
+CUST_0128,27,7,223.58,1,Active General Shoppers
+CUST_0129,25,7,475.45,2,VIP High-Spenders
+CUST_0130,56,5,212.03,1,Active General Shoppers
+CUST_0131,73,5,386.70000000000005,2,VIP High-Spenders
+CUST_0132,6,8,495.89,2,VIP High-Spenders
+CUST_0133,43,5,297.23,1,Active General Shoppers
+CUST_0134,81,8,246.88,2,VIP High-Spenders
+CUST_0135,34,6,238.89,1,Active General Shoppers
+CUST_0136,143,2,139.5,0,Slipping/At-Risk Customers
+CUST_0137,20,4,199.0,1,Active General Shoppers
+CUST_0138,21,4,352.69,1,Active General Shoppers
+CUST_0139,33,4,139.81,1,Active General Shoppers
+CUST_0140,66,5,188.43,1,Active General Shoppers
+CUST_0141,91,6,170.12,1,Active General Shoppers
+CUST_0142,115,4,118.13,1,Active General Shoppers
+CUST_0143,161,3,186.92,0,Slipping/At-Risk Customers
+CUST_0144,48,3,193.91000000000003,1,Active General Shoppers
+CUST_0145,21,4,265.33,1,Active General Shoppers
+CUST_0146,125,3,104.68,0,Slipping/At-Risk Customers
+CUST_0147,20,9,406.02,2,VIP High-Spenders
+CUST_0148,14,6,318.58,2,VIP High-Spenders
+CUST_0149,99,8,483.16999999999996,2,VIP High-Spenders
+CUST_0150,119,7,473.53,2,VIP High-Spenders
+CUST_0151,255,3,176.41000000000003,0,Slipping/At-Risk Customers
+CUST_0152,19,7,155.74,1,Active General Shoppers
+CUST_0153,55,3,136.49,1,Active General Shoppers
+CUST_0154,106,6,350.4,2,VIP High-Spenders
+CUST_0155,93,5,222.65,1,Active General Shoppers
+CUST_0156,96,5,91.33,1,Active General Shoppers
+CUST_0157,23,5,129.37,1,Active General Shoppers
+CUST_0158,93,4,489.78,2,VIP High-Spenders
+CUST_0159,192,2,42.83,0,Slipping/At-Risk Customers
+CUST_0160,15,6,176.82999999999998,1,Active General Shoppers
+CUST_0161,58,7,376.53999999999996,2,VIP High-Spenders
+CUST_0162,15,6,329.62,2,VIP High-Spenders
+CUST_0163,23,4,130.10999999999999,1,Active General Shoppers
+CUST_0164,46,5,408.34000000000003,2,VIP High-Spenders
+CUST_0165,21,7,273.28,2,VIP High-Spenders
+CUST_0166,161,8,361.98,2,VIP High-Spenders
+CUST_0167,198,3,86.24000000000001,0,Slipping/At-Risk Customers
+CUST_0168,257,3,72.52,0,Slipping/At-Risk Customers
+CUST_0169,77,5,178.14000000000001,1,Active General Shoppers
+CUST_0170,65,5,117.14999999999999,1,Active General Shoppers
+CUST_0171,33,8,437.48,2,VIP High-Spenders
+CUST_0172,31,6,256.15,1,Active General Shoppers
+CUST_0173,39,5,170.33,1,Active General Shoppers
+CUST_0174,21,1,103.56,1,Active General Shoppers
+CUST_0175,30,7,426.87,2,VIP High-Spenders
+CUST_0176,8,6,258.09000000000003,1,Active General Shoppers
+CUST_0177,107,7,333.13,2,VIP High-Spenders
+CUST_0178,20,6,419.88,2,VIP High-Spenders
+CUST_0179,90,7,289.02,2,VIP High-Spenders
+CUST_0180,74,7,491.33000000000004,2,VIP High-Spenders
+CUST_0181,46,6,480.53999999999996,2,VIP High-Spenders
+CUST_0182,27,10,439.84,2,VIP High-Spenders
+CUST_0183,2,4,174.67,1,Active General Shoppers
+CUST_0184,4,7,505.27,2,VIP High-Spenders
+CUST_0185,137,2,49.739999999999995,0,Slipping/At-Risk Customers
+CUST_0186,22,6,454.02,2,VIP High-Spenders
+CUST_0187,158,4,190.48,0,Slipping/At-Risk Customers
+CUST_0188,49,8,205.25,2,VIP High-Spenders
+CUST_0189,111,3,104.78999999999999,0,Slipping/At-Risk Customers
+CUST_0190,7,4,267.87,1,Active General Shoppers
+CUST_0191,113,5,385.12,2,VIP High-Spenders
+CUST_0192,46,3,54.129999999999995,1,Active General Shoppers
+CUST_0193,129,3,263.64,0,Slipping/At-Risk Customers
+CUST_0194,53,5,119.92,1,Active General Shoppers
+CUST_0195,14,6,289.19,1,Active General Shoppers
+CUST_0196,55,4,160.82999999999998,1,Active General Shoppers
+CUST_0197,140,3,165.31,0,Slipping/At-Risk Customers
+CUST_0198,66,6,373.87,2,VIP High-Spenders
+CUST_0199,17,5,190.17000000000002,1,Active General Shoppers
+CUST_0200,279,1,64.2,0,Slipping/At-Risk Customers
+CUST_0201,116,3,155.87,0,Slipping/At-Risk Customers
+CUST_0202,16,3,233.35,1,Active General Shoppers
+CUST_0203,105,4,221.85999999999999,1,Active General Shoppers
+CUST_0204,48,7,778.3,2,VIP High-Spenders
+CUST_0205,159,7,271.39,2,VIP High-Spenders
+CUST_0206,90,6,199.07,1,Active General Shoppers
+CUST_0207,30,8,636.94,2,VIP High-Spenders
+CUST_0208,17,3,157.56,1,Active General Shoppers
+CUST_0209,75,8,333.12,2,VIP High-Spenders
+CUST_0210,60,6,485.15999999999997,2,VIP High-Spenders
+CUST_0211,86,3,249.31,1,Active General Shoppers
+CUST_0212,93,5,281.38,1,Active General Shoppers
+CUST_0213,49,4,164.72,1,Active General Shoppers
+CUST_0214,120,4,86.8,0,Slipping/At-Risk Customers
+CUST_0215,44,5,263.22,1,Active General Shoppers
+CUST_0216,23,7,306.68,2,VIP High-Spenders
+CUST_0217,46,5,370.99,2,VIP High-Spenders
+CUST_0218,252,2,57.75,0,Slipping/At-Risk Customers
+CUST_0219,18,5,285.14,1,Active General Shoppers
+CUST_0220,68,5,280.76,1,Active General Shoppers
+CUST_0221,25,6,215.68,1,Active General Shoppers
+CUST_0222,74,4,403.02,1,Active General Shoppers
+CUST_0223,12,6,487.32,2,VIP High-Spenders
+CUST_0224,110,2,51.67999999999999,0,Slipping/At-Risk Customers
+CUST_0225,18,6,152.31,1,Active General Shoppers
+CUST_0226,213,2,94.43,0,Slipping/At-Risk Customers
+CUST_0227,53,4,123.02000000000001,1,Active General Shoppers
+CUST_0228,1,5,460.31,2,VIP High-Spenders
+CUST_0229,53,2,64.3,1,Active General Shoppers
+CUST_0230,1,6,546.83,2,VIP High-Spenders
+CUST_0231,4,5,153.65,1,Active General Shoppers
+CUST_0232,23,7,424.08,2,VIP High-Spenders
+CUST_0233,95,7,341.2,2,VIP High-Spenders
+CUST_0234,30,5,273.45,1,Active General Shoppers
+CUST_0235,21,4,237.82999999999998,1,Active General Shoppers
+CUST_0236,32,5,371.02,2,VIP High-Spenders
+CUST_0237,44,8,375.71,2,VIP High-Spenders
+CUST_0239,6,7,354.32,2,VIP High-Spenders
+CUST_0240,7,1,105.46,1,Active General Shoppers
+CUST_0241,5,3,217.48,1,Active General Shoppers
+CUST_0242,13,4,133.19,1,Active General Shoppers
+CUST_0243,91,5,292.71000000000004,1,Active General Shoppers
+CUST_0244,15,3,176.75,1,Active General Shoppers
+CUST_0245,6,7,425.09000000000003,2,VIP High-Spenders
+CUST_0246,104,4,198.96,1,Active General Shoppers
+CUST_0247,5,6,402.34999999999997,2,VIP High-Spenders
+CUST_0249,43,7,411.21,2,VIP High-Spenders
+CUST_0250,64,4,217.94,1,Active General Shoppers
+CUST_0251,31,4,216.74,1,Active General Shoppers
+CUST_0252,11,2,192.99,1,Active General Shoppers
+CUST_0253,71,9,350.71000000000004,2,VIP High-Spenders
+CUST_0254,37,4,90.96,1,Active General Shoppers
+CUST_0255,98,3,135.85,1,Active General Shoppers
+CUST_0256,13,1,11.58,1,Active General Shoppers
+CUST_0257,20,3,74.44,1,Active General Shoppers
+CUST_0258,25,4,205.89,1,Active General Shoppers
+CUST_0259,42,9,321.32,2,VIP High-Spenders
+CUST_0260,32,7,389.94,2,VIP High-Spenders
+CUST_0261,10,6,369.88,2,VIP High-Spenders
+CUST_0262,12,5,316.54999999999995,1,Active General Shoppers
+CUST_0263,74,3,143.74,1,Active General Shoppers
+CUST_0264,35,6,396.04,2,VIP High-Spenders
+CUST_0265,146,3,97.38,0,Slipping/At-Risk Customers
+CUST_0266,57,8,481.12,2,VIP High-Spenders
+CUST_0267,11,1,15.8,1,Active General Shoppers
+CUST_0268,113,9,644.1,2,VIP High-Spenders
+CUST_0269,38,11,543.31,2,VIP High-Spenders
+CUST_0270,50,4,201.54,1,Active General Shoppers
+CUST_0271,9,4,370.36,1,Active General Shoppers
+CUST_0272,51,5,427.91,2,VIP High-Spenders
+CUST_0273,60,8,429.88,2,VIP High-Spenders
+CUST_0274,324,1,15.68,0,Slipping/At-Risk Customers
+CUST_0275,28,5,183.75,1,Active General Shoppers
+CUST_0276,83,3,218.22,1,Active General Shoppers
+CUST_0277,46,6,288.49,1,Active General Shoppers
+CUST_0278,38,6,179.47,1,Active General Shoppers
+CUST_0279,190,4,157.94,0,Slipping/At-Risk Customers
+CUST_0280,17,3,147.29,1,Active General Shoppers
+CUST_0281,22,3,52.91,1,Active General Shoppers
+CUST_0282,278,2,93.4,0,Slipping/At-Risk Customers
+CUST_0283,292,3,118.56,0,Slipping/At-Risk Customers
+CUST_0284,65,3,131.17000000000002,1,Active General Shoppers
+CUST_0285,127,8,448.39,2,VIP High-Spenders
+CUST_0287,274,2,58.379999999999995,0,Slipping/At-Risk Customers
+CUST_0288,114,2,57.35,0,Slipping/At-Risk Customers
+CUST_0289,116,3,105.72,0,Slipping/At-Risk Customers
+CUST_0290,28,4,354.03,1,Active General Shoppers
+CUST_0291,129,1,36.44,0,Slipping/At-Risk Customers
+CUST_0292,31,4,118.12,1,Active General Shoppers
+CUST_0293,73,11,453.53,2,VIP High-Spenders
+CUST_0294,56,7,432.78999999999996,2,VIP High-Spenders
+CUST_0295,39,6,469.69,2,VIP High-Spenders
+CUST_0296,46,3,150.7,1,Active General Shoppers
+CUST_0297,58,7,451.71000000000004,2,VIP High-Spenders
+CUST_0298,46,3,203.5,1,Active General Shoppers
+CUST_0299,17,7,388.29,2,VIP High-Spenders
+CUST_0300,4,5,361.66999999999996,2,VIP High-Spenders
+CUST_0301,234,2,39.46,0,Slipping/At-Risk Customers
+CUST_0302,22,8,299.24,2,VIP High-Spenders
+CUST_0303,44,6,384.89,2,VIP High-Spenders
+CUST_0304,68,3,121.25,1,Active General Shoppers
+CUST_0305,332,1,15.34,0,Slipping/At-Risk Customers
+CUST_0306,276,1,38.12,0,Slipping/At-Risk Customers
+CUST_0307,28,6,181.18,1,Active General Shoppers
+CUST_0308,14,3,76.69,1,Active General Shoppers
+CUST_0309,23,3,108.08,1,Active General Shoppers
+CUST_0310,21,3,141.97,1,Active General Shoppers
+CUST_0311,136,6,201.45,1,Active General Shoppers
+CUST_0312,313,3,104.42,0,Slipping/At-Risk Customers
+CUST_0313,38,4,232.89,1,Active General Shoppers
+CUST_0314,40,5,193.75,1,Active General Shoppers
+CUST_0315,1,6,253.69,1,Active General Shoppers
+CUST_0316,188,4,317.55,0,Slipping/At-Risk Customers
+CUST_0317,198,5,247.53,0,Slipping/At-Risk Customers
+CUST_0318,92,6,398.93,2,VIP High-Spenders
+CUST_0319,185,4,150.41,0,Slipping/At-Risk Customers
+CUST_0320,28,6,201.26999999999998,1,Active General Shoppers
+CUST_0321,147,4,178.93,0,Slipping/At-Risk Customers
+CUST_0322,22,3,204.5,1,Active General Shoppers
+CUST_0323,20,3,170.12,1,Active General Shoppers
+CUST_0324,85,4,153.35999999999999,1,Active General Shoppers
+CUST_0325,9,9,638.12,2,VIP High-Spenders
+CUST_0326,3,6,323.93,2,VIP High-Spenders
+CUST_0327,180,3,119.02000000000001,0,Slipping/At-Risk Customers
+CUST_0328,62,5,217.35,1,Active General Shoppers
+CUST_0329,179,4,129.5,0,Slipping/At-Risk Customers
+CUST_0330,27,7,215.11,1,Active General Shoppers
+CUST_0331,65,5,230.89,1,Active General Shoppers
+CUST_0332,154,3,169.41,0,Slipping/At-Risk Customers
+CUST_0333,34,5,264.14,1,Active General Shoppers
+CUST_0334,33,8,320.8,2,VIP High-Spenders
+CUST_0335,104,6,381.49,2,VIP High-Spenders
+CUST_0336,8,6,462.74,2,VIP High-Spenders
+CUST_0337,17,6,253.0,1,Active General Shoppers
+CUST_0338,47,2,92.98,1,Active General Shoppers
+CUST_0339,162,2,26.119999999999997,0,Slipping/At-Risk Customers
+CUST_0340,9,5,205.6,1,Active General Shoppers
+CUST_0341,68,3,161.62,1,Active General Shoppers
+CUST_0342,46,6,251.07,1,Active General Shoppers
+CUST_0343,34,7,318.35,2,VIP High-Spenders
+CUST_0344,72,8,658.02,2,VIP High-Spenders
+CUST_0345,56,3,130.39000000000001,1,Active General Shoppers
+CUST_0346,66,5,181.39,1,Active General Shoppers
+CUST_0347,41,2,122.66,1,Active General Shoppers
+CUST_0348,202,1,35.54,0,Slipping/At-Risk Customers
+CUST_0349,24,6,479.87,2,VIP High-Spenders
+CUST_0350,192,2,253.38,0,Slipping/At-Risk Customers
+CUST_0351,186,4,78.44,0,Slipping/At-Risk Customers
+CUST_0352,177,1,14.25,0,Slipping/At-Risk Customers
+CUST_0353,186,1,80.36,0,Slipping/At-Risk Customers
+CUST_0354,80,4,223.13,1,Active General Shoppers
+CUST_0355,78,9,582.75,2,VIP High-Spenders
+CUST_0356,42,10,611.14,2,VIP High-Spenders
+CUST_0357,221,5,167.98,0,Slipping/At-Risk Customers
+CUST_0358,150,4,147.04,0,Slipping/At-Risk Customers
+CUST_0359,304,1,16.27,0,Slipping/At-Risk Customers
+CUST_0360,109,8,398.73,2,VIP High-Spenders
+CUST_0361,31,8,329.64,2,VIP High-Spenders
+CUST_0362,21,4,81.4,1,Active General Shoppers
+CUST_0363,257,2,28.15,0,Slipping/At-Risk Customers
+CUST_0364,45,7,460.25,2,VIP High-Spenders
+CUST_0365,66,5,99.4,1,Active General Shoppers
+CUST_0366,90,5,260.94,1,Active General Shoppers
+CUST_0367,53,5,144.54000000000002,1,Active General Shoppers
+CUST_0368,24,8,553.34,2,VIP High-Spenders
+CUST_0369,19,3,127.9,1,Active General Shoppers
+CUST_0370,162,2,166.73000000000002,0,Slipping/At-Risk Customers
+CUST_0371,101,5,346.19,1,Active General Shoppers
+CUST_0372,151,3,99.03999999999999,0,Slipping/At-Risk Customers
+CUST_0373,285,1,11.48,0,Slipping/At-Risk Customers
+CUST_0374,324,1,20.51,0,Slipping/At-Risk Customers
+CUST_0375,252,4,306.46,0,Slipping/At-Risk Customers
+CUST_0376,17,10,500.48,2,VIP High-Spenders
+CUST_0377,225,3,71.35,0,Slipping/At-Risk Customers
+CUST_0378,98,7,339.69,2,VIP High-Spenders
+CUST_0379,144,3,119.91,0,Slipping/At-Risk Customers
+CUST_0380,4,6,395.67,2,VIP High-Spenders
+CUST_0381,55,4,137.94,1,Active General Shoppers
+CUST_0382,13,10,497.26,2,VIP High-Spenders
+CUST_0383,22,7,483.93,2,VIP High-Spenders
+CUST_0384,32,6,186.15,1,Active General Shoppers
+CUST_0385,55,4,150.45,1,Active General Shoppers
+CUST_0386,1,6,212.03,1,Active General Shoppers
+CUST_0387,1,12,432.48,2,VIP High-Spenders
+CUST_0388,20,7,431.75,2,VIP High-Spenders
+CUST_0389,248,5,434.46999999999997,0,Slipping/At-Risk Customers
+CUST_0390,118,6,351.24,2,VIP High-Spenders
+CUST_0391,142,2,50.34,0,Slipping/At-Risk Customers
+CUST_0392,38,6,427.14,2,VIP High-Spenders
+CUST_0393,52,6,235.47,1,Active General Shoppers
+CUST_0394,9,7,570.6800000000001,2,VIP High-Spenders
+CUST_0395,2,1,35.17,1,Active General Shoppers
+CUST_0396,129,6,272.67,1,Active General Shoppers
+CUST_0397,86,5,198.47,1,Active General Shoppers
+CUST_0398,121,4,111.47,0,Slipping/At-Risk Customers
+CUST_0399,105,1,30.42,0,Slipping/At-Risk Customers
+CUST_0400,96,5,222.56,1,Active General Shoppers
+CUST_0401,88,5,353.94,1,Active General Shoppers
+CUST_0402,141,3,89.66,0,Slipping/At-Risk Customers
+CUST_0403,20,8,269.08,2,VIP High-Spenders
+CUST_0404,76,5,316.77,1,Active General Shoppers
+CUST_0405,38,5,213.06,1,Active General Shoppers
+CUST_0406,125,4,299.71000000000004,1,Active General Shoppers
+CUST_0407,37,8,395.83,2,VIP High-Spenders
+CUST_0408,91,4,225.05,1,Active General Shoppers
+CUST_0409,95,2,336.62,1,Active General Shoppers
+CUST_0410,72,6,354.54999999999995,2,VIP High-Spenders
+CUST_0411,271,1,48.56,0,Slipping/At-Risk Customers
+CUST_0412,10,6,295.90000000000003,2,VIP High-Spenders
+CUST_0413,27,5,378.73,2,VIP High-Spenders
+CUST_0414,57,2,41.16,1,Active General Shoppers
+CUST_0415,8,7,313.91,2,VIP High-Spenders
+CUST_0416,184,3,154.07,0,Slipping/At-Risk Customers
+CUST_0417,53,6,287.16,1,Active General Shoppers
+CUST_0418,10,2,89.12,1,Active General Shoppers
+CUST_0419,122,10,477.3,2,VIP High-Spenders
+CUST_0420,10,10,559.9,2,VIP High-Spenders
+CUST_0421,168,3,66.81,0,Slipping/At-Risk Customers
+CUST_0422,38,5,304.34000000000003,1,Active General Shoppers
+CUST_0423,10,8,310.86,2,VIP High-Spenders
+CUST_0424,108,4,482.08,2,VIP High-Spenders
+CUST_0425,52,5,108.7,1,Active General Shoppers
+CUST_0426,86,4,238.49,1,Active General Shoppers
+CUST_0427,61,2,73.81,1,Active General Shoppers
+CUST_0428,15,4,280.21000000000004,1,Active General Shoppers
+CUST_0429,48,8,437.65,2,VIP High-Spenders
+CUST_0430,221,2,130.48000000000002,0,Slipping/At-Risk Customers
+CUST_0431,12,5,247.96,1,Active General Shoppers
+CUST_0432,25,7,236.1,2,VIP High-Spenders
+CUST_0433,185,2,86.66,0,Slipping/At-Risk Customers
+CUST_0434,35,4,224.53000000000003,1,Active General Shoppers
+CUST_0435,34,11,585.59,2,VIP High-Spenders
+CUST_0436,26,5,413.4,2,VIP High-Spenders
+CUST_0437,52,4,268.06,1,Active General Shoppers
+CUST_0438,10,6,456.90999999999997,2,VIP High-Spenders
+CUST_0439,35,5,429.14,2,VIP High-Spenders
+CUST_0440,17,5,203.25,1,Active General Shoppers
+CUST_0441,97,6,429.73,2,VIP High-Spenders
+CUST_0442,11,8,606.75,2,VIP High-Spenders
+CUST_0443,20,5,330.64,1,Active General Shoppers
+CUST_0444,13,10,450.69,2,VIP High-Spenders
+CUST_0445,97,1,63.64,0,Slipping/At-Risk Customers
+CUST_0446,48,4,207.56,1,Active General Shoppers
+CUST_0447,28,8,300.08,2,VIP High-Spenders
+CUST_0448,1,5,334.62,1,Active General Shoppers
+CUST_0449,10,7,176.39,1,Active General Shoppers
+CUST_0450,68,9,486.68,2,VIP High-Spenders
+CUST_0451,2,3,187.83,1,Active General Shoppers
+CUST_0452,160,2,100.75,0,Slipping/At-Risk Customers
+CUST_0453,49,5,161.03,1,Active General Shoppers
+CUST_0454,91,2,41.03,1,Active General Shoppers
+CUST_0455,35,6,166.12,1,Active General Shoppers
+CUST_0456,102,3,112.05000000000001,1,Active General Shoppers
+CUST_0457,113,7,462.33000000000004,2,VIP High-Spenders
+CUST_0458,76,4,370.78999999999996,1,Active General Shoppers
+CUST_0459,103,6,361.32,2,VIP High-Spenders
+CUST_0460,9,4,304.34000000000003,1,Active General Shoppers
+CUST_0461,31,5,315.6,1,Active General Shoppers
+CUST_0462,294,2,206.73,0,Slipping/At-Risk Customers
+CUST_0463,122,9,486.06,2,VIP High-Spenders
+CUST_0464,76,6,85.0,1,Active General Shoppers
+CUST_0465,24,9,428.57,2,VIP High-Spenders
+CUST_0466,39,5,217.95999999999998,1,Active General Shoppers
+CUST_0467,8,5,302.92,1,Active General Shoppers
+CUST_0468,98,4,80.27000000000001,1,Active General Shoppers
+CUST_0469,16,4,232.06,1,Active General Shoppers
+CUST_0470,16,4,107.69,1,Active General Shoppers
+CUST_0471,83,6,167.24,1,Active General Shoppers
+CUST_0472,171,5,193.29,0,Slipping/At-Risk Customers
+CUST_0473,70,4,165.69,1,Active General Shoppers
+CUST_0474,116,6,394.6,2,VIP High-Spenders
+CUST_0475,25,4,132.14,1,Active General Shoppers
+CUST_0476,49,10,413.91,2,VIP High-Spenders
+CUST_0477,4,9,631.15,2,VIP High-Spenders
+CUST_0478,14,5,182.64999999999998,1,Active General Shoppers
+CUST_0479,101,3,206.34,1,Active General Shoppers
+CUST_0480,78,7,556.4100000000001,2,VIP High-Spenders
+CUST_0481,14,4,265.62,1,Active General Shoppers
+CUST_0482,116,3,151.22,0,Slipping/At-Risk Customers
+CUST_0483,142,3,244.45,0,Slipping/At-Risk Customers
+CUST_0484,89,5,436.40999999999997,2,VIP High-Spenders
+CUST_0485,94,1,93.85,0,Slipping/At-Risk Customers
+CUST_0486,361,1,36.52,0,Slipping/At-Risk Customers
+CUST_0487,25,5,401.63,2,VIP High-Spenders
+CUST_0488,87,2,71.35,1,Active General Shoppers
+CUST_0489,61,3,129.05,1,Active General Shoppers
+CUST_0490,39,3,93.84,1,Active General Shoppers
+CUST_0491,111,3,218.8,1,Active General Shoppers
+CUST_0492,53,9,386.37,2,VIP High-Spenders
+CUST_0493,47,7,340.4,2,VIP High-Spenders
+CUST_0494,55,4,180.43,1,Active General Shoppers
+CUST_0495,40,3,191.75,1,Active General Shoppers
+CUST_0496,36,5,211.8,1,Active General Shoppers
+CUST_0497,63,8,419.65,2,VIP High-Spenders
+CUST_0498,100,5,186.70999999999998,1,Active General Shoppers
+CUST_0499,148,2,94.08,0,Slipping/At-Risk Customers
+CUST_0500,24,7,334.04,2,VIP High-Spenders
+CUST_0501,180,5,250.77999999999997,0,Slipping/At-Risk Customers
+CUST_0502,18,6,322.11,2,VIP High-Spenders
+CUST_0503,24,4,291.61,1,Active General Shoppers
+CUST_0504,2,4,230.85,1,Active General Shoppers
+CUST_0505,72,4,227.89,1,Active General Shoppers
+CUST_0506,72,7,166.93,1,Active General Shoppers
+CUST_0507,1,3,138.98,1,Active General Shoppers
+CUST_0508,4,8,221.19,2,VIP High-Spenders
+CUST_0509,68,4,259.75,1,Active General Shoppers
+CUST_0510,1,6,372.32,2,VIP High-Spenders
+CUST_0511,48,4,398.84000000000003,1,Active General Shoppers
+CUST_0512,194,1,123.55,0,Slipping/At-Risk Customers
+CUST_0513,235,1,40.57,0,Slipping/At-Risk Customers
+CUST_0514,63,2,88.11,1,Active General Shoppers
+CUST_0515,50,3,249.61,1,Active General Shoppers
+CUST_0516,10,4,115.85999999999999,1,Active General Shoppers
+CUST_0517,342,2,92.33,0,Slipping/At-Risk Customers
+CUST_0518,159,7,345.1,2,VIP High-Spenders
+CUST_0519,61,6,277.58000000000004,1,Active General Shoppers
+CUST_0520,6,3,175.72,1,Active General Shoppers
+CUST_0521,79,7,435.14,2,VIP High-Spenders
+CUST_0522,8,10,608.89,2,VIP High-Spenders
+CUST_0523,268,1,10.82,0,Slipping/At-Risk Customers
+CUST_0524,71,3,92.06,1,Active General Shoppers
+CUST_0525,19,11,827.26,2,VIP High-Spenders
+CUST_0526,30,4,293.05,1,Active General Shoppers
+CUST_0527,41,6,134.44,1,Active General Shoppers
+CUST_0528,28,8,333.81,2,VIP High-Spenders
+CUST_0529,25,7,328.59000000000003,2,VIP High-Spenders
+CUST_0530,53,5,280.3,1,Active General Shoppers
+CUST_0531,76,4,83.87,1,Active General Shoppers
+CUST_0532,38,6,302.96999999999997,2,VIP High-Spenders
+CUST_0533,85,4,92.64999999999999,1,Active General Shoppers
+CUST_0534,125,5,331.71,1,Active General Shoppers
+CUST_0535,64,5,181.94,1,Active General Shoppers
+CUST_0536,50,5,565.6700000000001,2,VIP High-Spenders
+CUST_0537,24,6,423.31,2,VIP High-Spenders
+CUST_0538,205,5,223.79,0,Slipping/At-Risk Customers
+CUST_0539,152,4,242.1,0,Slipping/At-Risk Customers
+CUST_0540,92,5,140.32999999999998,1,Active General Shoppers
+CUST_0541,13,5,177.38,1,Active General Shoppers
+CUST_0542,32,4,151.71,1,Active General Shoppers
+CUST_0543,18,3,93.55000000000001,1,Active General Shoppers
+CUST_0544,229,2,155.52,0,Slipping/At-Risk Customers
+CUST_0545,255,2,37.78,0,Slipping/At-Risk Customers
+CUST_0546,197,4,287.46,0,Slipping/At-Risk Customers
+CUST_0547,28,8,485.56,2,VIP High-Spenders
+CUST_0548,33,5,222.5,1,Active General Shoppers
+CUST_0549,24,4,171.13,1,Active General Shoppers
+CUST_0550,9,7,443.22,2,VIP High-Spenders
+CUST_0551,174,6,163.61,0,Slipping/At-Risk Customers
+CUST_0552,78,3,123.55,1,Active General Shoppers
+CUST_0553,13,7,468.37,2,VIP High-Spenders
+CUST_0554,69,5,259.89,1,Active General Shoppers
+CUST_0555,60,4,113.23,1,Active General Shoppers
+CUST_0556,26,6,203.17000000000002,1,Active General Shoppers
+CUST_0557,21,4,351.04999999999995,1,Active General Shoppers
+CUST_0558,13,11,630.79,2,VIP High-Spenders
+CUST_0559,7,4,199.64999999999998,1,Active General Shoppers
+CUST_0560,15,9,604.6,2,VIP High-Spenders
+CUST_0561,59,7,406.98,2,VIP High-Spenders
+CUST_0562,156,5,189.48000000000002,0,Slipping/At-Risk Customers
+CUST_0563,4,7,341.93,2,VIP High-Spenders
+CUST_0564,79,4,109.59,1,Active General Shoppers
+CUST_0565,64,2,136.18,1,Active General Shoppers
+CUST_0566,22,5,243.21999999999997,1,Active General Shoppers
+CUST_0567,128,4,170.55,0,Slipping/At-Risk Customers
+CUST_0568,179,4,285.29,0,Slipping/At-Risk Customers
+CUST_0569,68,4,180.13,1,Active General Shoppers
+CUST_0570,3,7,268.89,2,VIP High-Spenders
+CUST_0571,62,3,336.12,1,Active General Shoppers
+CUST_0572,333,2,336.02000000000004,0,Slipping/At-Risk Customers
+CUST_0573,29,4,108.55000000000001,1,Active General Shoppers
+CUST_0574,46,7,244.89,2,VIP High-Spenders
+CUST_0575,8,14,794.13,2,VIP High-Spenders
+CUST_0576,20,6,299.23,2,VIP High-Spenders
+CUST_0577,11,6,306.65,2,VIP High-Spenders
+CUST_0578,57,5,201.87,1,Active General Shoppers
+CUST_0579,107,5,253.01999999999998,1,Active General Shoppers
+CUST_0580,67,4,295.12,1,Active General Shoppers
+CUST_0581,146,2,182.24,0,Slipping/At-Risk Customers
+CUST_0582,251,3,86.00999999999999,0,Slipping/At-Risk Customers
+CUST_0583,18,7,477.45,2,VIP High-Spenders
+CUST_0584,118,6,354.83,2,VIP High-Spenders
+CUST_0585,190,3,143.62,0,Slipping/At-Risk Customers
+CUST_0586,15,4,302.6,1,Active General Shoppers
+CUST_0587,201,2,44.910000000000004,0,Slipping/At-Risk Customers
+CUST_0588,79,5,312.2,1,Active General Shoppers
+CUST_0589,52,6,399.96,2,VIP High-Spenders
+CUST_0590,82,6,266.09000000000003,1,Active General Shoppers
+CUST_0591,154,3,135.16,0,Slipping/At-Risk Customers
+CUST_0592,52,5,206.65,1,Active General Shoppers
+CUST_0593,115,2,22.89,0,Slipping/At-Risk Customers
+CUST_0594,146,5,155.86,0,Slipping/At-Risk Customers
+CUST_0595,33,4,258.39,1,Active General Shoppers
+CUST_0596,167,4,160.53,0,Slipping/At-Risk Customers
+CUST_0597,93,6,410.31,2,VIP High-Spenders
+CUST_0598,21,7,228.07999999999998,1,Active General Shoppers
+CUST_0599,36,4,243.05,1,Active General Shoppers
+CUST_0600,15,4,183.14000000000001,1,Active General Shoppers
+CUST_0601,50,9,337.64,2,VIP High-Spenders
+CUST_0602,20,5,189.06,1,Active General Shoppers
+CUST_0603,12,4,160.84,1,Active General Shoppers
+CUST_0604,228,3,89.09,0,Slipping/At-Risk Customers
+CUST_0605,39,4,100.32,1,Active General Shoppers
+CUST_0606,3,8,243.65,2,VIP High-Spenders
+CUST_0607,62,5,513.41,2,VIP High-Spenders
+CUST_0608,49,4,178.89,1,Active General Shoppers
+CUST_0609,59,5,288.57,1,Active General Shoppers
+CUST_0610,140,3,98.41,0,Slipping/At-Risk Customers
+CUST_0611,55,6,331.84000000000003,2,VIP High-Spenders
+CUST_0612,59,4,168.16,1,Active General Shoppers
+CUST_0613,102,4,230.92,1,Active General Shoppers
+CUST_0614,9,4,130.88,1,Active General Shoppers
+CUST_0615,143,3,111.23,0,Slipping/At-Risk Customers
+CUST_0616,50,10,405.61,2,VIP High-Spenders
+CUST_0617,48,5,133.22,1,Active General Shoppers
+CUST_0618,2,10,509.22999999999996,2,VIP High-Spenders
+CUST_0619,91,5,231.35,1,Active General Shoppers
+CUST_0620,63,6,386.92,2,VIP High-Spenders
+CUST_0621,84,4,194.63,1,Active General Shoppers
+CUST_0622,32,5,336.23,1,Active General Shoppers
+CUST_0623,7,7,436.11,2,VIP High-Spenders
+CUST_0624,15,8,447.45,2,VIP High-Spenders
+CUST_0625,7,6,213.19,1,Active General Shoppers
+CUST_0626,82,6,256.69,1,Active General Shoppers
+CUST_0627,104,3,201.56,1,Active General Shoppers
+CUST_0628,129,10,412.7,2,VIP High-Spenders
+CUST_0629,145,3,131.48000000000002,0,Slipping/At-Risk Customers
+CUST_0630,1,8,233.84,2,VIP High-Spenders
+CUST_0631,9,10,713.47,2,VIP High-Spenders
+CUST_0632,26,4,221.32,1,Active General Shoppers
+CUST_0633,30,8,392.7,2,VIP High-Spenders
+CUST_0634,32,2,84.25,1,Active General Shoppers
+CUST_0635,34,5,195.10999999999999,1,Active General Shoppers
+CUST_0636,76,1,23.09,1,Active General Shoppers
+CUST_0637,15,5,420.45,2,VIP High-Spenders
+CUST_0638,65,8,367.52,2,VIP High-Spenders
+CUST_0639,103,4,173.36,1,Active General Shoppers
+CUST_0640,2,5,186.68,1,Active General Shoppers
+CUST_0641,83,8,449.86,2,VIP High-Spenders
+CUST_0642,152,3,86.52,0,Slipping/At-Risk Customers
+CUST_0643,3,3,198.04,1,Active General Shoppers
+CUST_0644,131,2,65.74000000000001,0,Slipping/At-Risk Customers
+CUST_0645,5,4,195.56,1,Active General Shoppers
+CUST_0646,19,6,330.42,2,VIP High-Spenders
+CUST_0647,48,7,277.65999999999997,2,VIP High-Spenders
+CUST_0648,63,3,225.76,1,Active General Shoppers
+CUST_0649,52,3,69.3,1,Active General Shoppers
+CUST_0650,28,3,178.94,1,Active General Shoppers
+CUST_0651,54,1,46.55,1,Active General Shoppers
+CUST_0652,67,3,200.64000000000001,1,Active General Shoppers
+CUST_0653,98,6,246.29000000000002,1,Active General Shoppers
+CUST_0654,74,5,299.33000000000004,1,Active General Shoppers
+CUST_0655,56,5,245.79,1,Active General Shoppers
+CUST_0656,9,4,193.0,1,Active General Shoppers
+CUST_0657,36,7,488.82,2,VIP High-Spenders
+CUST_0658,65,6,189.85,1,Active General Shoppers
+CUST_0659,98,4,159.19,1,Active General Shoppers
+CUST_0660,86,3,321.62,1,Active General Shoppers
+CUST_0661,88,3,171.32999999999998,1,Active General Shoppers
+CUST_0662,120,7,423.9,2,VIP High-Spenders
+CUST_0663,1,5,122.18,1,Active General Shoppers
+CUST_0664,84,6,291.98,1,Active General Shoppers
+CUST_0665,33,4,282.82,1,Active General Shoppers
+CUST_0666,32,5,361.68,2,VIP High-Spenders
+CUST_0667,82,7,570.85,2,VIP High-Spenders
+CUST_0669,164,3,169.29000000000002,0,Slipping/At-Risk Customers
+CUST_0670,4,8,261.48,2,VIP High-Spenders
+CUST_0671,164,3,57.72,0,Slipping/At-Risk Customers
+CUST_0672,118,6,254.04000000000002,1,Active General Shoppers
+CUST_0673,116,6,294.38,1,Active General Shoppers
+CUST_0674,177,3,97.62,0,Slipping/At-Risk Customers
+CUST_0675,253,3,245.54999999999998,0,Slipping/At-Risk Customers
+CUST_0676,78,8,419.71,2,VIP High-Spenders
+CUST_0677,227,1,125.28,0,Slipping/At-Risk Customers
+CUST_0678,183,4,143.31,0,Slipping/At-Risk Customers
+CUST_0679,284,1,98.62,0,Slipping/At-Risk Customers
+CUST_0680,28,7,394.3,2,VIP High-Spenders
+CUST_0681,43,5,375.05,2,VIP High-Spenders
+CUST_0682,59,5,387.36,2,VIP High-Spenders
+CUST_0683,37,5,195.10999999999999,1,Active General Shoppers
+CUST_0684,50,6,328.1,2,VIP High-Spenders
+CUST_0685,4,5,257.18,1,Active General Shoppers
+CUST_0686,31,4,149.61,1,Active General Shoppers
+CUST_0687,84,7,158.57,1,Active General Shoppers
+CUST_0688,56,5,209.94,1,Active General Shoppers
+CUST_0689,68,6,236.42000000000002,1,Active General Shoppers
+CUST_0690,20,5,327.54,1,Active General Shoppers
+CUST_0691,173,4,488.48,2,VIP High-Spenders
+CUST_0692,25,6,381.28,2,VIP High-Spenders
+CUST_0693,6,7,424.99,2,VIP High-Spenders
+CUST_0694,223,3,125.59,0,Slipping/At-Risk Customers
+CUST_0695,33,4,214.97,1,Active General Shoppers
+CUST_0696,46,4,284.49,1,Active General Shoppers
+CUST_0697,44,5,181.74,1,Active General Shoppers
+CUST_0698,21,5,244.52,1,Active General Shoppers
+CUST_0699,157,3,102.47999999999999,0,Slipping/At-Risk Customers
+CUST_0700,64,6,181.2,1,Active General Shoppers
+CUST_0701,94,6,321.5,2,VIP High-Spenders
+CUST_0702,50,4,68.16,1,Active General Shoppers
+CUST_0703,41,8,287.51,2,VIP High-Spenders
+CUST_0704,31,2,71.53,1,Active General Shoppers
+CUST_0705,20,2,198.85999999999999,1,Active General Shoppers
+CUST_0706,255,4,130.57999999999998,0,Slipping/At-Risk Customers
+CUST_0707,23,1,36.65,1,Active General Shoppers
+CUST_0708,59,4,333.82,1,Active General Shoppers
+CUST_0709,2,5,198.31,1,Active General Shoppers
+CUST_0710,118,3,119.01,0,Slipping/At-Risk Customers
+CUST_0711,52,5,231.31,1,Active General Shoppers
+CUST_0712,222,5,115.87,0,Slipping/At-Risk Customers
+CUST_0713,152,4,291.88,0,Slipping/At-Risk Customers
+CUST_0714,18,4,207.76,1,Active General Shoppers
+CUST_0715,25,5,240.73,1,Active General Shoppers
+CUST_0716,84,4,217.22,1,Active General Shoppers
+CUST_0717,68,3,296.77,1,Active General Shoppers
+CUST_0718,50,7,410.51,2,VIP High-Spenders
+CUST_0719,22,8,477.48,2,VIP High-Spenders
+CUST_0720,74,9,495.69,2,VIP High-Spenders
+CUST_0721,183,5,181.53,0,Slipping/At-Risk Customers
+CUST_0722,80,6,542.69,2,VIP High-Spenders
+CUST_0723,98,6,245.39,1,Active General Shoppers
+CUST_0724,23,5,292.28999999999996,1,Active General Shoppers
+CUST_0725,73,4,203.93,1,Active General Shoppers
+CUST_0726,75,5,290.59999999999997,1,Active General Shoppers
+CUST_0727,29,12,844.93,2,VIP High-Spenders
+CUST_0728,73,8,390.96000000000004,2,VIP High-Spenders
+CUST_0729,24,3,215.54000000000002,1,Active General Shoppers
+CUST_0730,59,7,600.99,2,VIP High-Spenders
+CUST_0731,40,6,728.4,2,VIP High-Spenders
+CUST_0732,30,2,101.07,1,Active General Shoppers
+CUST_0733,131,4,184.33,0,Slipping/At-Risk Customers
+CUST_0734,115,7,348.77,2,VIP High-Spenders
+CUST_0735,53,4,328.33,1,Active General Shoppers
+CUST_0736,88,5,220.95999999999998,1,Active General Shoppers
+CUST_0737,11,4,360.7,1,Active General Shoppers
+CUST_0738,313,1,88.57,0,Slipping/At-Risk Customers
+CUST_0739,32,2,135.37,1,Active General Shoppers
+CUST_0740,95,6,347.88,2,VIP High-Spenders
+CUST_0741,280,1,156.87,0,Slipping/At-Risk Customers
+CUST_0742,114,5,205.02,1,Active General Shoppers
+CUST_0743,104,5,228.4,1,Active General Shoppers
+CUST_0744,125,3,92.05000000000001,0,Slipping/At-Risk Customers
+CUST_0746,171,3,259.03,0,Slipping/At-Risk Customers
+CUST_0747,60,5,268.5,1,Active General Shoppers
+CUST_0748,58,3,159.57999999999998,1,Active General Shoppers
+CUST_0749,81,7,415.2,2,VIP High-Spenders
+CUST_0750,3,8,256.62,2,VIP High-Spenders
+CUST_0751,4,5,406.38,2,VIP High-Spenders
+CUST_0752,124,5,291.81,1,Active General Shoppers
+CUST_0753,94,4,290.12,1,Active General Shoppers
+CUST_0754,3,5,188.14000000000001,1,Active General Shoppers
+CUST_0755,135,4,102.22,0,Slipping/At-Risk Customers
+CUST_0756,8,5,252.17000000000002,1,Active General Shoppers
+CUST_0757,57,6,196.16,1,Active General Shoppers
+CUST_0758,174,4,233.9,0,Slipping/At-Risk Customers
+CUST_0759,29,3,187.88,1,Active General Shoppers
+CUST_0760,189,3,128.31,0,Slipping/At-Risk Customers
+CUST_0761,96,4,237.44,1,Active General Shoppers
+CUST_0762,68,4,98.23,1,Active General Shoppers
+CUST_0763,242,3,239.97999999999996,0,Slipping/At-Risk Customers
+CUST_0764,8,8,398.52,2,VIP High-Spenders
+CUST_0765,167,2,39.56,0,Slipping/At-Risk Customers
+CUST_0766,71,3,88.05,1,Active General Shoppers
+CUST_0767,7,5,154.59,1,Active General Shoppers
+CUST_0768,6,6,186.95999999999998,1,Active General Shoppers
+CUST_0769,39,3,67.74,1,Active General Shoppers
+CUST_0770,17,5,301.21,1,Active General Shoppers
+CUST_0771,9,7,301.35999999999996,2,VIP High-Spenders
+CUST_0772,152,2,54.3,0,Slipping/At-Risk Customers
+CUST_0773,25,7,392.65,2,VIP High-Spenders
+CUST_0774,2,7,445.19,2,VIP High-Spenders
+CUST_0775,1,5,421.3,2,VIP High-Spenders
+CUST_0776,51,5,209.34,1,Active General Shoppers
+CUST_0777,20,5,385.95000000000005,2,VIP High-Spenders
+CUST_0778,18,7,277.95000000000005,2,VIP High-Spenders
+CUST_0779,25,2,184.63,1,Active General Shoppers
+CUST_0781,108,4,65.85,1,Active General Shoppers
+CUST_0782,76,2,55.61,1,Active General Shoppers
+CUST_0783,94,7,373.21,2,VIP High-Spenders
+CUST_0784,166,4,165.06,0,Slipping/At-Risk Customers
+CUST_0785,14,3,157.76999999999998,1,Active General Shoppers
+CUST_0786,165,3,357.15,0,Slipping/At-Risk Customers
+CUST_0787,42,8,322.07,2,VIP High-Spenders
+CUST_0788,127,3,119.31,0,Slipping/At-Risk Customers
+CUST_0789,62,3,52.650000000000006,1,Active General Shoppers
+CUST_0790,10,4,158.89,1,Active General Shoppers
+CUST_0791,93,3,89.78,1,Active General Shoppers
+CUST_0792,26,8,309.81,2,VIP High-Spenders
+CUST_0793,86,7,513.7,2,VIP High-Spenders
+CUST_0794,106,6,283.90999999999997,1,Active General Shoppers
+CUST_0795,41,4,223.16000000000003,1,Active General Shoppers
+CUST_0796,60,3,267.06,1,Active General Shoppers
+CUST_0797,100,2,213.71,1,Active General Shoppers
+CUST_0798,93,4,173.31,1,Active General Shoppers
+CUST_0799,32,7,329.23,2,VIP High-Spenders
+CUST_0800,57,4,121.52000000000001,1,Active General Shoppers
+CUST_0801,89,2,24.97,1,Active General Shoppers
+CUST_0802,77,4,195.79999999999998,1,Active General Shoppers
+CUST_0803,186,4,339.13,0,Slipping/At-Risk Customers
+CUST_0804,330,1,19.87,0,Slipping/At-Risk Customers
+CUST_0805,79,8,665.3,2,VIP High-Spenders
+CUST_0806,103,6,303.0,2,VIP High-Spenders
+CUST_0807,54,4,106.5,1,Active General Shoppers
+CUST_0808,36,3,153.07999999999998,1,Active General Shoppers
+CUST_0809,65,5,279.95,1,Active General Shoppers
+CUST_0810,8,4,158.02,1,Active General Shoppers
+CUST_0811,83,4,268.69,1,Active General Shoppers
+CUST_0812,36,5,184.75,1,Active General Shoppers
+CUST_0813,4,8,338.65000000000003,2,VIP High-Spenders
+CUST_0814,187,4,272.27,0,Slipping/At-Risk Customers
+CUST_0815,87,2,98.24000000000001,1,Active General Shoppers
+CUST_0816,25,10,418.24,2,VIP High-Spenders
+CUST_0817,47,6,382.74,2,VIP High-Spenders
+CUST_0818,67,4,222.6,1,Active General Shoppers
+CUST_0819,35,6,315.74,2,VIP High-Spenders
+CUST_0820,18,5,331.75,1,Active General Shoppers
+CUST_0821,60,6,209.12,1,Active General Shoppers
+CUST_0822,17,9,468.27,2,VIP High-Spenders
+CUST_0823,237,3,135.53,0,Slipping/At-Risk Customers
+CUST_0824,14,5,310.02,1,Active General Shoppers
+CUST_0825,79,5,230.87,1,Active General Shoppers
+CUST_0826,15,5,209.6,1,Active General Shoppers
+CUST_0827,32,2,73.96000000000001,1,Active General Shoppers
+CUST_0828,4,7,238.45000000000002,2,VIP High-Spenders
+CUST_0829,344,1,11.68,0,Slipping/At-Risk Customers
+CUST_0830,1,4,328.44,1,Active General Shoppers
+CUST_0831,21,10,454.48,2,VIP High-Spenders
+CUST_0832,24,8,362.78999999999996,2,VIP High-Spenders
+CUST_0833,24,9,675.61,2,VIP High-Spenders
+CUST_0834,20,9,393.15,2,VIP High-Spenders
+CUST_0835,108,6,369.52,2,VIP High-Spenders
+CUST_0836,123,7,202.89,1,Active General Shoppers
+CUST_0837,104,10,534.78,2,VIP High-Spenders
+CUST_0838,95,7,331.61,2,VIP High-Spenders
+CUST_0840,6,6,271.65,1,Active General Shoppers
+CUST_0841,69,5,143.27,1,Active General Shoppers
+CUST_0842,12,2,32.67,1,Active General Shoppers
+CUST_0843,87,4,221.03,1,Active General Shoppers
+CUST_0844,53,5,252.00000000000003,1,Active General Shoppers
+CUST_0845,60,5,230.83,1,Active General Shoppers
+CUST_0846,82,5,147.29,1,Active General Shoppers
+CUST_0847,110,5,272.01,1,Active General Shoppers
+CUST_0848,163,3,157.34,0,Slipping/At-Risk Customers
+CUST_0849,9,12,488.62,2,VIP High-Spenders
+CUST_0850,35,6,400.74,2,VIP High-Spenders
+CUST_0851,1,4,177.55,1,Active General Shoppers
+CUST_0852,40,4,177.13,1,Active General Shoppers
+CUST_0853,168,7,464.82,2,VIP High-Spenders
+CUST_0854,51,6,467.05,2,VIP High-Spenders
+CUST_0855,12,7,181.71,1,Active General Shoppers
+CUST_0856,130,7,229.03,1,Active General Shoppers
+CUST_0857,39,5,310.39,1,Active General Shoppers
+CUST_0858,125,4,93.72,0,Slipping/At-Risk Customers
+CUST_0859,22,8,253.5,2,VIP High-Spenders
+CUST_0860,179,1,28.44,0,Slipping/At-Risk Customers
+CUST_0861,3,5,204.0,1,Active General Shoppers
+CUST_0862,261,2,300.59,0,Slipping/At-Risk Customers
+CUST_0863,30,4,261.9,1,Active General Shoppers
+CUST_0864,148,4,86.84,0,Slipping/At-Risk Customers
+CUST_0865,89,5,285.16,1,Active General Shoppers
+CUST_0866,67,4,289.46999999999997,1,Active General Shoppers
+CUST_0867,17,3,100.77000000000001,1,Active General Shoppers
+CUST_0868,47,4,131.86,1,Active General Shoppers
+CUST_0869,5,7,410.06,2,VIP High-Spenders
+CUST_0870,129,4,162.85999999999999,0,Slipping/At-Risk Customers
+CUST_0871,164,6,267.18,0,Slipping/At-Risk Customers
+CUST_0872,24,4,137.45,1,Active General Shoppers
+CUST_0873,83,5,166.57,1,Active General Shoppers
+CUST_0874,66,5,127.94,1,Active General Shoppers
+CUST_0875,56,6,264.21,1,Active General Shoppers
+CUST_0876,123,2,163.19,0,Slipping/At-Risk Customers
+CUST_0877,125,5,64.41,1,Active General Shoppers
+CUST_0878,28,7,380.53,2,VIP High-Spenders
+CUST_0879,39,5,236.79000000000002,1,Active General Shoppers
+CUST_0880,339,2,121.16,0,Slipping/At-Risk Customers
+CUST_0881,91,4,250.87,1,Active General Shoppers
+CUST_0882,3,5,212.01,1,Active General Shoppers
+CUST_0883,110,3,139.45,1,Active General Shoppers
+CUST_0884,34,7,278.65,2,VIP High-Spenders
+CUST_0885,67,8,424.93,2,VIP High-Spenders
+CUST_0886,103,8,452.11,2,VIP High-Spenders
+CUST_0887,105,5,639.19,2,VIP High-Spenders
+CUST_0888,28,5,264.53000000000003,1,Active General Shoppers
+CUST_0889,296,1,112.22,0,Slipping/At-Risk Customers
+CUST_0891,58,5,265.28000000000003,1,Active General Shoppers
+CUST_0892,10,7,431.38,2,VIP High-Spenders
+CUST_0893,165,4,168.34,0,Slipping/At-Risk Customers
+CUST_0894,48,3,184.25,1,Active General Shoppers
+CUST_0895,226,1,37.78,0,Slipping/At-Risk Customers
+CUST_0896,11,4,277.69,1,Active General Shoppers
+CUST_0897,13,6,296.57,2,VIP High-Spenders
+CUST_0898,232,1,80.11,0,Slipping/At-Risk Customers
+CUST_0899,147,7,311.2,2,VIP High-Spenders
+CUST_0900,18,5,292.03000000000003,1,Active General Shoppers
+CUST_0901,138,2,109.57,0,Slipping/At-Risk Customers
+CUST_0902,86,9,522.75,2,VIP High-Spenders
+CUST_0903,239,1,40.93,0,Slipping/At-Risk Customers
+CUST_0904,55,5,364.07,2,VIP High-Spenders
+CUST_0905,84,4,235.14,1,Active General Shoppers
+CUST_0906,99,4,121.29,1,Active General Shoppers
+CUST_0907,33,6,300.04,2,VIP High-Spenders
+CUST_0908,80,3,75.14,1,Active General Shoppers
+CUST_0909,17,5,399.78,2,VIP High-Spenders
+CUST_0910,204,1,119.65,0,Slipping/At-Risk Customers
+CUST_0911,20,7,366.14,2,VIP High-Spenders
+CUST_0912,58,4,200.48,1,Active General Shoppers
+CUST_0913,87,8,669.1300000000001,2,VIP High-Spenders
+CUST_0914,68,2,39.42,1,Active General Shoppers
+CUST_0915,78,9,405.44,2,VIP High-Spenders
+CUST_0916,6,3,131.47,1,Active General Shoppers
+CUST_0917,79,5,356.9,1,Active General Shoppers
+CUST_0918,64,7,568.26,2,VIP High-Spenders
+CUST_0919,6,11,335.38,2,VIP High-Spenders
+CUST_0920,74,7,254.08999999999997,2,VIP High-Spenders
+CUST_0921,53,5,238.44,1,Active General Shoppers
+CUST_0922,135,3,99.42999999999999,0,Slipping/At-Risk Customers
+CUST_0923,61,8,228.81,2,VIP High-Spenders
+CUST_0924,42,2,107.23,1,Active General Shoppers
+CUST_0925,180,4,308.26,0,Slipping/At-Risk Customers
+CUST_0926,7,3,132.42000000000002,1,Active General Shoppers
+CUST_0927,274,2,215.03,0,Slipping/At-Risk Customers
+CUST_0928,78,3,130.98,1,Active General Shoppers
+CUST_0929,2,9,387.71,2,VIP High-Spenders
+CUST_0930,23,11,463.93,2,VIP High-Spenders
+CUST_0931,221,2,117.9,0,Slipping/At-Risk Customers
+CUST_0932,40,1,108.18,1,Active General Shoppers
+CUST_0933,45,6,450.2,2,VIP High-Spenders
+CUST_0934,124,2,72.38,0,Slipping/At-Risk Customers
+CUST_0935,70,5,163.28,1,Active General Shoppers
+CUST_0936,112,7,424.18,2,VIP High-Spenders
+CUST_0937,31,5,142.99,1,Active General Shoppers
+CUST_0938,164,1,8.44,0,Slipping/At-Risk Customers
+CUST_0939,70,8,583.15,2,VIP High-Spenders
+CUST_0940,4,9,690.4300000000001,2,VIP High-Spenders
+CUST_0941,139,5,287.28,1,Active General Shoppers
+CUST_0942,76,4,244.67000000000002,1,Active General Shoppers
+CUST_0943,24,4,313.07,1,Active General Shoppers
+CUST_0944,128,2,74.51,0,Slipping/At-Risk Customers
+CUST_0945,1,7,413.01,2,VIP High-Spenders
+CUST_0946,32,8,378.42,2,VIP High-Spenders
+CUST_0947,47,12,638.72,2,VIP High-Spenders
+CUST_0948,37,7,261.15999999999997,2,VIP High-Spenders
+CUST_0949,90,3,65.27,1,Active General Shoppers
+CUST_0950,10,6,205.65,1,Active General Shoppers
+CUST_0951,146,4,206.91,0,Slipping/At-Risk Customers
+CUST_0952,47,4,122.19,1,Active General Shoppers
+CUST_0953,2,4,107.67999999999999,1,Active General Shoppers
+CUST_0954,40,4,129.14,1,Active General Shoppers
+CUST_0955,93,4,329.02,1,Active General Shoppers
+CUST_0956,134,8,568.49,2,VIP High-Spenders
+CUST_0957,349,1,142.52,0,Slipping/At-Risk Customers
+CUST_0958,48,7,404.92,2,VIP High-Spenders
+CUST_0959,24,5,268.53,1,Active General Shoppers
+CUST_0960,33,6,428.68,2,VIP High-Spenders
+CUST_0961,176,2,138.06,0,Slipping/At-Risk Customers
+CUST_0962,42,6,373.85,2,VIP High-Spenders
+CUST_0963,14,7,273.72999999999996,2,VIP High-Spenders
+CUST_0964,188,3,149.96,0,Slipping/At-Risk Customers
+CUST_0965,217,2,70.97,0,Slipping/At-Risk Customers
+CUST_0966,159,2,47.85,0,Slipping/At-Risk Customers
+CUST_0967,115,3,129.35,0,Slipping/At-Risk Customers
+CUST_0968,74,4,272.07,1,Active General Shoppers
+CUST_0969,24,5,331.22,1,Active General Shoppers
+CUST_0970,65,5,251.41,1,Active General Shoppers
+CUST_0971,62,1,24.34,1,Active General Shoppers
+CUST_0972,62,2,30.57,1,Active General Shoppers
+CUST_0973,5,8,378.17,2,VIP High-Spenders
+CUST_0974,238,2,54.41,0,Slipping/At-Risk Customers
+CUST_0975,9,3,118.34,1,Active General Shoppers
+CUST_0976,72,5,221.05,1,Active General Shoppers
+CUST_0977,125,4,109.06,0,Slipping/At-Risk Customers
+CUST_0978,2,3,85.39,1,Active General Shoppers
+CUST_0979,155,3,148.43,0,Slipping/At-Risk Customers
+CUST_0980,34,7,166.99,1,Active General Shoppers
+CUST_0981,120,6,353.23,2,VIP High-Spenders
+CUST_0982,29,7,335.27,2,VIP High-Spenders
+CUST_0983,78,5,294.07,1,Active General Shoppers
+CUST_0984,51,4,473.66,2,VIP High-Spenders
+CUST_0985,60,4,118.94,1,Active General Shoppers
+CUST_0986,7,4,208.05,1,Active General Shoppers
+CUST_0987,26,6,609.04,2,VIP High-Spenders
+CUST_0988,34,4,72.36,1,Active General Shoppers
+CUST_0989,66,6,399.32,2,VIP High-Spenders
+CUST_0990,148,5,137.03,0,Slipping/At-Risk Customers
+CUST_0991,57,5,187.24,1,Active General Shoppers
+CUST_0992,16,3,101.51,1,Active General Shoppers
+CUST_0993,66,6,131.07999999999998,1,Active General Shoppers
+CUST_0994,64,6,237.68,1,Active General Shoppers
+CUST_0995,9,3,84.71000000000001,1,Active General Shoppers
+CUST_0996,223,4,255.54,0,Slipping/At-Risk Customers
+CUST_0997,77,5,224.01,1,Active General Shoppers
+CUST_0998,132,5,197.12,1,Active General Shoppers
+CUST_0999,54,6,301.6,2,VIP High-Spenders
+CUST_1000,59,5,273.76,1,Active General Shoppers
